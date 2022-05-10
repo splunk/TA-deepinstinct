@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "2.0.0",
+  "info": {
+    "title": "Deep Instinct Add-On for Splunk",
+    "id": {
+      "name": "TA-deepinstinct"
+    },
+    "author": [
+      {
+        "name": "Nick Zambo"
+      }
+    ],
+    "description": "Deep Instinct Add-On for Splunk"
+  },
+  "supportedDeployments": [
+    "_standalone",
+    "_distributed"
+  ],
+  "targetWorkloads": [
+    "_search_heads",
+    "_indexers"
+  ]
+}
