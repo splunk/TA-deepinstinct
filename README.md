@@ -1,1 +1,1 @@
-# TA-deepinstinct
+# Splunk Add-on For Deep Instinct
